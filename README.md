@@ -7,6 +7,7 @@ This is a practice on the [competition on Kaggle](https://www.kaggle.com/c/titan
 This competition provides three csv files(train.csv, test.csv, gender_submission.csv(sample))
 
 The Titanic passengers data (train.csv & test.csv) tell us:
+
 |   Attribute | Definition                                                          |
 |-------------|---------------------------------------------------------------------|
 |         Age | Age in years                                                        |
@@ -24,6 +25,7 @@ The Titanic passengers data (train.csv & test.csv) tell us:
 
 
 We need to give a prediction data (submission.csv) that includes:
+
 | PassengerID | Survived                                                            |
 |-------------|---------------------------------------------------------------------|
 |           # | 0 or 1                                                              |
