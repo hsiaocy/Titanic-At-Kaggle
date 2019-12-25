@@ -2,7 +2,7 @@
 
 <hr>
 
-This is a practice on the [competition on Kaggle](https://www.kaggle.com/c/titanic/overview).
+This is a practice on the [competition on Kaggle](https://www.kaggle.com/c/titanic/overview), and I refer to the material from this [repo](https://gist.github.com/yehjames/8c0e552975c876eb289d6b03d9d00ca4#file-4-1-ipynb)
 
 This competition provides three csv files(train.csv, test.csv, gender_submission.csv(sample))
 
